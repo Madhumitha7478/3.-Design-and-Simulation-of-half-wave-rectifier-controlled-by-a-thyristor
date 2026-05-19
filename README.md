@@ -62,5 +62,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1812" height="891" alt="image" src="https://github.com/user-attachments/assets/45338815-a7c3-47a3-8f37-ed82a28d3656" />
+
 ## Output
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/8f71c0f0-c17a-427d-83a8-57b6534eeecf" />
+
+<img width="1917" height="1108" alt="image" src="https://github.com/user-attachments/assets/8ac316a0-0baf-44c4-a455-77288edd72b5" />
+
 ## Result
+The half-wave controlled rectifier was simulated in MATLAB Simulink, and the output DC voltage was regulated by varying the thyristor firing angle.
